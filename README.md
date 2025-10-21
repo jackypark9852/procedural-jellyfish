@@ -29,4 +29,12 @@ A procedural jellyfish made with Houdini.
     <td><img src="/assets/arms.png" alt="Jellyfish arms" width="100%"></td>
     <td><img src="/assets/tentacles.png" alt="Jellyfish tentacles (alt)" width="100%"></td>
   </tr>
+
+  <tr>
+    <th>Organs</th>
+  </tr>
+
+  <tr>
+    <td><img src="/assets/organs.png" alt="Jellyfish organs" width="100%"></td>
+  </tr>
 </table>
