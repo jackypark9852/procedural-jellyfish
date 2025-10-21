@@ -35,6 +35,6 @@ A procedural jellyfish made with Houdini.
   </tr>
 
   <tr>
-    <td><img src="/assets/organs.png" alt="Jellyfish organs" width="100%"></td>
+    <td><img src="/assets/Organs.png" alt="Jellyfish organs" width="100%"></td>
   </tr>
 </table>
